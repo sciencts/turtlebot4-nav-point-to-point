@@ -77,6 +77,9 @@ ros2 run turtlebot4_pick_place turtlebot4_pick_place_node
 
 # Demo Video
 
-[![Watch the demo](https://img.shields.io/badge/▶️%20Watch%20Demo-red?style=for-the-badge)](https://www.youtube.com/watch?v=XMuy7byeXuQ)
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XMuy7byeXuQ">
+    <img src="https://img.youtube.com/vi/XMuy7byeXuQ/hqdefault.jpg" alt="TurtleBot4 Navigation Demo">
+  </a>
+</p>
 
