@@ -82,5 +82,3 @@ ros2 run turtlebot4_pick_place turtlebot4_pick_place_node
     <img src="https://img.youtube.com/vi/aJAJW27PNXo/hqdefault.jpg" alt="TurtleBot4 Navigation Demo">
   </a>
 </p>
-
-
