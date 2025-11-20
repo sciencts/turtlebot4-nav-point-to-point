@@ -12,7 +12,7 @@ cd turtlebot4_ws/src
 ```
 ### Clone this repo 
 ```
-git clone https://github.com/MasdikaAliman/turtlebot4_nav_point_to_point.git
+git clone https://github.com/sciencts/turtlebot4-nav-point-to-point.git
 ```
 ### Install package and dependiencies
 ```
@@ -77,7 +77,6 @@ ros2 run turtlebot4_pick_place turtlebot4_pick_place_node
 
 # Demo Video
 
-[![TurtleBot4 Navigation Demo](https://img.youtube.com/vi/XMuy7byeXuQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XMuy7byeXuQ)
-
+[![Watch the demo](https://img.shields.io/badge/▶️%20Watch%20Demo-red?style=for-the-badge)](https://www.youtube.com/watch?v=XMuy7byeXuQ)
 
 
