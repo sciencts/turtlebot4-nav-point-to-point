@@ -73,4 +73,11 @@ source install/setup.bash
 ros2 run turtlebot4_pick_place turtlebot4_pick_place_node
 ```
 
+---
+
+# Demo Video
+
+[![TurtleBot4 Navigation Demo](https://img.youtube.com/vi/XMuy7byeXuQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XMuy7byeXuQ)
+
+
 
